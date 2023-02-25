@@ -1,0 +1,26 @@
+
+	Cálculo_Fluxo_de_Potência em redes de Distribuição
+	Sebastián de Jesús Manrique Machado	2017
+	EESC-USP
+ 
+ Arquivo Analisado: A_Sistema_EE.txt
+ Iterações realizadas: 5
+
+---BARRAS---
+
+Barra	Vr []	Vi []	Inr	Inim	Snr	Snim	Snrd	Snimd
+0	(1+0j)	(-0-0j)	(-0+0j)	0j
+1	(0.988-0.002j)	(-1.011+0.609j)	(-1-0.6j)	(1+0.6j)
+2	(0.976-0.001j)	(-0.922+0.411j)	(-0.9-0.4j)	(0.9+0.4j)
+3	(0.969+0j)	(-1.238+0.825j)	(-1.2-0.8j)	(1.2+0.8j)
+4	(0.967+0.001j)	(-0.828+0.62j)	(-0.8-0.6j)	(0.8+0.6j)
+
+---LINHAS---
+
+---Corrente total Subestação: (3.999-2.465j)
+
+Pos	Ni	Nj	Ilinr	Iinim	Injr	Inji	
+0	0	1	(3.999-2.465j)	(-1.011+0.609j)
+1	1	2	(2.988-1.856j)	(-0.922+0.411j)
+2	2	3	(2.066-1.445j)	(-1.238+0.825j)
+3	3	4	(0.828-0.62j)	(-0.828+0.62j)

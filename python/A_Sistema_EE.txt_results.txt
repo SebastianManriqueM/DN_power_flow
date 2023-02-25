@@ -1,0 +1,39 @@
+
+ Arquivo Analisado: A_Sistema_EE.txtNó inicial e final ORIGINAL
+pos	idx	Ni	Nj
+0	0	1	2
+1	1	2	3
+2	2	3	4
+3	3	4	5
+
+
+	+++*** ||-RESULTADOS ORDENADO-|| ***+++
+ INDEX BARRA 
+Pos	IdxB	Bus
+0	0	1
+1	1	2
+2	2	3
+3	3	4
+4	4	5
+Nó inicial e final ORDENADO
+pos	idx	Ni	Nj
+0	0	1	2
+1	1	2	3
+2	2	3	4
+3	3	4	5
+
+
+	+++*** ||-RESULTADOS RENUMERADO-|| ***+++
+ INDEX BARRA 
+Pos	IdxB	Bus
+0	0	0
+1	1	1
+2	2	2
+3	3	3
+4	4	4
+Nó inicial e final RENUMERADO
+pos	idx	Ni	Nj
+0	0	0	1
+1	1	1	2
+2	2	2	3
+3	3	3	4
